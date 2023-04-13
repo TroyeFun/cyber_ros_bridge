@@ -1,0 +1,19 @@
+
+ä
+&modules/drivers/proto/pointcloud.protoapollo.drivers!modules/common/proto/header.proto"‡
+
+PointXYZIT
+x (:nanRx
+y (:nanRy
+z (:nanRz
+	intensity (:0R	intensity
+	timestamp (:0R	timestamp"ü
+
+PointCloud-
+header (2.apollo.common.HeaderRheader
+frame_id (	RframeId
+is_dense (RisDense0
+point (2.apollo.drivers.PointXYZITRpoint)
+measurement_time (RmeasurementTime
+width (Rwidth
+height (Rheight

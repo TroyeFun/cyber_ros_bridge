@@ -1,0 +1,26 @@
+
+Ü
+#modules/common/proto/geometry.protoapollo.common"A
+PointENU
+x (:nanRx
+y (:nanRy
+z (:0Rz"S
+PointLLH
+lon (:nanRlon
+lat (:nanRlat
+height (:0Rheight"/
+Point2D
+x (:nanRx
+y (:nanRy"B
+Point3D
+x (:nanRx
+y (:nanRy
+z (:nanRz"`
+
+Quaternion
+qx (:nanRqx
+qy (:nanRqy
+qz (:nanRqz
+qw (:nanRqw"7
+Polygon,
+point (2.apollo.common.Point3DRpoint

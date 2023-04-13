@@ -1,0 +1,8 @@
+prefix=/catkin_ws/install
+
+Name: cyber_ros_bridge
+Description: Description of cyber_ros_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

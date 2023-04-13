@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/libultrasonic_radar_proto.a
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/_objs/ultrasonic_radar_proto/ultrasonic_radar.pb.pic.o

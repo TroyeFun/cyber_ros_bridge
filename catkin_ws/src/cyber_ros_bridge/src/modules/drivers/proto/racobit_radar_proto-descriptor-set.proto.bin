@@ -1,0 +1,58 @@
+
+£
+)modules/drivers/proto/racobit_radar.protoapollo.drivers!modules/common/proto/header.protoBmodules/drivers/radar/racobit_radar/proto/racobit_radar_conf.proto"ž
+RacobitClusterListStatus_600
+near (:0Rnear
+far (:0Rfar%
+meas_counter (:-1RmeasCounter+
+interface_version (RinterfaceVersion"•
+RacobitObjectListStatus_60A"
+nof_objects (:0R
+nofObjects%
+meas_counter (:-1RmeasCounter+
+interface_version (RinterfaceVersion"¾
+RacobitRadarState_201!
+max_distance (RmaxDistance
+radar_power (R
+radarPowerI
+output_type (2(.apollo.drivers.racobit_radar.OutputTypeR
+outputTypeO
+rcs_threshold (2*.apollo.drivers.racobit_radar.RcsThresholdRrcsThreshold!
+send_quality (RsendQuality"
+send_ext_info (RsendExtInfo"†
+RacobitRadarObs-
+header (2.apollo.common.HeaderRheader&
+clusterortrack (Rclusterortrack
+obstacle_id (R
+obstacleId%
+longitude_dist (RlongitudeDist!
+lateral_dist (RlateralDist#
+longitude_vel (RlongitudeVel
+lateral_vel (R
+lateralVel
+rcs (Rrcs
+dynprop	 (Rdynprop,
+longitude_dist_rms
+ (RlongitudeDistRms(
+lateral_dist_rms (RlateralDistRms*
+longitude_vel_rms (RlongitudeVelRms&
+lateral_vel_rms (RlateralVelRms
+	probexist (R	probexist
+
+meas_state (R	measState'
+longitude_accel (RlongitudeAccel#
+lateral_accel (RlateralAccel'
+oritation_angle (RoritationAngle.
+longitude_accel_rms (RlongitudeAccelRms*
+lateral_accel_rms (RlateralAccelRms.
+oritation_angle_rms (RoritationAngleRms
+length (Rlength
+width (Rwidth%
+obstacle_class (RobstacleClass"û
+RacobitRadar-
+header (2.apollo.common.HeaderRheader;
+contiobs (2.apollo.drivers.RacobitRadarObsRcontiobsF
+radar_state (2%.apollo.drivers.RacobitRadarState_201R
+radarState\
+cluster_list_status (2,.apollo.drivers.RacobitClusterListStatus_600RclusterListStatusY
+object_list_status (2+.apollo.drivers.RacobitObjectListStatus_60ARobjectListStatus

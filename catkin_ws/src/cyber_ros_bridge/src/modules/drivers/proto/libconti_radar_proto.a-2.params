@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/libconti_radar_proto.a
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/_objs/conti_radar_proto/conti_radar.pb.pic.o

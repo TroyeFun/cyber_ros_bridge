@@ -1,0 +1,94 @@
+
+ 
+
+(modules/drivers/proto/sensor_image.protoapollo.drivers!modules/common/proto/header.proto"î
+Image-
+header (2.apollo.common.HeaderRheader
+frame_id (	RframeId)
+measurement_time (RmeasurementTime
+height (Rheight
+width (Rwidth
+encoding (	Rencoding
+step (Rstep
+data (Rdata"Ñ
+CompressedImage-
+header (2.apollo.common.HeaderRheader
+frame_id (	RframeId
+format (	Rformat
+data (Rdata)
+measurement_time (RmeasurementTime
+
+frame_type (R	frameType*û
+PixelFormat	
+RGB8é
+
+RGBA8ê
+
+RGB16ë
+RGBA16ì	
+BGR8í
+
+BGRA8î
+
+BGR16ï
+BGRA16ð
+
+MONO8ñ
+MONO16ò
+	TYPE_8UC1Ñ
+	TYPE_8UC2Ò
+	TYPE_8UC3Ó
+	TYPE_8UC4Ô
+	TYPE_8SC1Õ
+	TYPE_8SC2Ö
+	TYPE_8SC3×
+	TYPE_8SC4Ø
+
+TYPE_16UC1Ù
+
+TYPE_16UC2Ú
+
+TYPE_16UC3Û
+
+TYPE_16UC4Ü
+
+TYPE_16SC1Ý
+
+TYPE_16SC2Þ
+
+TYPE_16SC3ß
+
+TYPE_16SC4à
+
+TYPE_32SC1á
+
+TYPE_32SC2â
+
+TYPE_32SC3ã
+
+TYPE_32SC4ä
+
+TYPE_32FC1å
+
+TYPE_32FC2æ
+
+TYPE_32FC3ç
+
+TYPE_32FC4è
+
+TYPE_64FC1é
+
+TYPE_64FC2ê
+
+TYPE_64FC3ë
+
+TYPE_64FC4ì
+BAYER_RGGB8¹
+BAYER_BGGR8º
+BAYER_GBRG8»
+BAYER_GRBG8¼
+BAYER_RGGB16½
+BAYER_BGGR16¾
+BAYER_GBRG16¿
+BAYER_GRBG16À
+YUV422¡

@@ -1,0 +1,14 @@
+
+³
+!modules/common/proto/header.protoapollo.common%modules/common/proto/error_code.proto"×
+Header#
+timestamp_sec (RtimestampSec
+module_name (	R
+moduleName!
+sequence_num (RsequenceNum'
+lidar_timestamp (RlidarTimestamp)
+camera_timestamp (RcameraTimestamp'
+radar_timestamp (RradarTimestamp
+version (:1Rversion/
+status (2.apollo.common.StatusPbRstatus
+frame_id	 (	RframeId

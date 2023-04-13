@@ -1,0 +1,12 @@
+-shared
+-o
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/libsensor_image_proto.so
+-Wl,-S
+-fuse-ld=gold
+-Wl,-no-as-needed
+-Wl,-z,relro,-z,now
+-B/usr/bin
+-pass-exit-codes
+-lstdc++
+-lm
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/_objs/sensor_image_proto/sensor_image.pb.pic.o

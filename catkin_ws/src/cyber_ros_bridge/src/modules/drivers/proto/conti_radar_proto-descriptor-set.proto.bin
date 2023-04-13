@@ -1,0 +1,59 @@
+
+é
+'modules/drivers/proto/conti_radar.protoapollo.drivers!modules/common/proto/header.proto>modules/drivers/radar/conti_radar/proto/conti_radar_conf.proto"—
+ClusterListStatus_600
+near (:0Rnear
+far (:0Rfar%
+meas_counter (:-1RmeasCounter+
+interface_version (RinterfaceVersion"Ž
+ObjectListStatus_60A"
+nof_objects (:0R
+nofObjects%
+meas_counter (:-1RmeasCounter+
+interface_version (RinterfaceVersion"³
+RadarState_201!
+max_distance (RmaxDistance
+radar_power (R
+radarPowerG
+output_type (2&.apollo.drivers.conti_radar.OutputTypeR
+outputTypeM
+rcs_threshold (2(.apollo.drivers.conti_radar.RcsThresholdRrcsThreshold!
+send_quality (RsendQuality"
+send_ext_info (RsendExtInfo"„
+ContiRadarObs-
+header (2.apollo.common.HeaderRheader&
+clusterortrack (Rclusterortrack
+obstacle_id (R
+obstacleId%
+longitude_dist (RlongitudeDist!
+lateral_dist (RlateralDist#
+longitude_vel (RlongitudeVel
+lateral_vel (R
+lateralVel
+rcs (Rrcs
+dynprop	 (Rdynprop,
+longitude_dist_rms
+ (RlongitudeDistRms(
+lateral_dist_rms (RlateralDistRms*
+longitude_vel_rms (RlongitudeVelRms&
+lateral_vel_rms (RlateralVelRms
+	probexist (R	probexist
+
+meas_state (R	measState'
+longitude_accel (RlongitudeAccel#
+lateral_accel (RlateralAccel'
+oritation_angle (RoritationAngle.
+longitude_accel_rms (RlongitudeAccelRms*
+lateral_accel_rms (RlateralAccelRms.
+oritation_angle_rms (RoritationAngleRms
+length (Rlength
+width (Rwidth%
+obstacle_class (RobstacleClass"â
+
+ContiRadar-
+header (2.apollo.common.HeaderRheader9
+contiobs (2.apollo.drivers.ContiRadarObsRcontiobs?
+radar_state (2.apollo.drivers.RadarState_201R
+radarStateU
+cluster_list_status (2%.apollo.drivers.ClusterListStatus_600RclusterListStatusR
+object_list_status (2$.apollo.drivers.ObjectListStatus_60ARobjectListStatus

@@ -1,0 +1,26 @@
+Log file created at: 2023/04/04 03:47:30
+Running on machine: lwk-MS-7D76
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0404 03:47:30.824082 1355300 global_data.cc:153] host ip: 192.168.1.103
+W0404 03:47:30.825098 1355300 scheduler_factory.cc:63] Scheduler conf named /usr/local/lib/python3.7/dist-packages/pycyber/conf/python3.7_1355300.conf not found, use default.
+I0404 03:47:30.825227 1355339 processor.cc:42] processor_tid: 1355339
+I0404 03:47:30.825282 1355340 processor.cc:42] processor_tid: 1355340
+I0404 03:47:30.825316 1355341 processor.cc:42] processor_tid: 1355341
+I0404 03:47:30.825348 1355342 processor.cc:42] processor_tid: 1355342
+I0404 03:47:30.825398 1355343 processor.cc:42] processor_tid: 1355343
+I0404 03:47:30.825443 1355345 processor.cc:42] processor_tid: 1355345
+I0404 03:47:30.825445 1355344 processor.cc:42] processor_tid: 1355344
+I0404 03:47:30.825467 1355346 processor.cc:42] processor_tid: 1355346
+I0404 03:47:30.825492 1355347 processor.cc:42] processor_tid: 1355347
+I0404 03:47:30.825522 1355348 processor.cc:42] processor_tid: 1355348
+I0404 03:47:30.825557 1355349 processor.cc:42] processor_tid: 1355349
+I0404 03:47:30.825593 1355350 processor.cc:42] processor_tid: 1355350
+I0404 03:47:30.825623 1355351 processor.cc:42] processor_tid: 1355351
+I0404 03:47:30.825659 1355352 processor.cc:42] processor_tid: 1355352
+I0404 03:47:30.825682 1355353 processor.cc:42] processor_tid: 1355353
+W0404 03:47:30.825706 1355300 environment.h:33] Environment variable [sysmo_start] not set, fallback to 
+I0404 03:47:30.825711 1355300 init.cc:113] Register exit handle succ.
+I0404 03:47:30.825713 1355300 py_cyber.h:58] cyber init succ.
+I0404 03:47:30.825717 1355354 processor.cc:42] processor_tid: 1355354
+I0404 03:47:30.827548 1355300 scheduler.cc:55] create croutine: cyber_ros_pc_bridge_/velodyne_points
+I0404 03:47:30.827756 1355300 py_cyber.cc:250] reader regist fun

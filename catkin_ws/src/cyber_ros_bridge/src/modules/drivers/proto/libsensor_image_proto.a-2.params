@@ -1,0 +1,3 @@
+rcsD
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/libsensor_image_proto.a
+bazel-out/k8-fastbuild/bin/modules/drivers/proto/_objs/sensor_image_proto/sensor_image.pb.pic.o

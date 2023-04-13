@@ -1,0 +1,152 @@
+
+Í&
+$modules/drivers/proto/mobileye.protoapollo.drivers!modules/common/proto/header.proto"€
+Lka_768
+	lane_type (RlaneType
+quality (Rquality!
+model_degree (RmodelDegree
+position (Rposition
+	curvature (R	curvature1
+curvature_derivative (RcurvatureDerivative.
+width_right_marking (RwidthRightMarking"L
+Num_76bA
+num_of_next_lane_mark_reported (RnumOfNextLaneMarkReported"ñ
+Aftermarket_669$
+lane_conf_left (RlaneConfLeft2
+ldw_availability_left (RldwAvailabilityLeft$
+lane_type_left (RlaneTypeLeft+
+distance_to_lane_l (RdistanceToLaneL&
+lane_conf_right (RlaneConfRight4
+ldw_availability_right (RldwAvailabilityRight&
+lane_type_right (RlaneTypeRight+
+distance_to_lane_r (RdistanceToLaneR"…
+Lka_769#
+heading_angle (RheadingAngle
+
+view_range (R	viewRange6
+view_range_availability (RviewRangeAvailability"µ
+Reference_76a/
+ref_point_1_position (RrefPoint1Position/
+ref_point_1_distance (RrefPoint1Distance/
+ref_point_1_validity (RrefPoint1Validity/
+ref_point_2_position (RrefPoint2Position/
+ref_point_2_distance (RrefPoint2Distance/
+ref_point_2_validity (RrefPoint2Validity"Ã
+Details_738#
+num_obstacles (RnumObstacles
+	timestamp (R	timestamp/
+application_version (RapplicationVersionA
+active_version_number_section (RactiveVersionNumberSection2
+left_close_rang_cut_in (RleftCloseRangCutIn4
+right_close_rang_cut_in (RrightCloseRangCutIn
+go (Rgo)
+protocol_version (RprotocolVersion
+	close_car	 (RcloseCar
+failsafe
+ (Rfailsafe
+reserved_10 (R
+reserved10"ù
+Next_76c
+	lane_type (RlaneType
+quality (Rquality!
+model_degree (RmodelDegree
+position (Rposition
+	curvature (R	curvature1
+curvature_derivative (RcurvatureDerivative&
+lane_mark_width (RlaneMarkWidth"Ð
+Details_737%
+lane_curvature (RlaneCurvature!
+lane_heading (RlaneHeading0
+ca_construction_area (RcaConstructionArea4
+right_ldw_availability (RrightLdwAvailability2
+left_ldw_availability (RleftLdwAvailability
+
+reserved_1 (R	reserved1
+	yaw_angle (RyawAngle
+pitch_angle (R
+pitchAngle"…
+Lka_767#
+heading_angle (RheadingAngle
+
+view_range (R	viewRange6
+view_range_availability (RviewRangeAvailability"þ
+Lka_766
+	lane_type (RlaneType
+quality (Rquality!
+model_degree (RmodelDegree
+position (Rposition
+	curvature (R	curvature1
+curvature_derivative (RcurvatureDerivative,
+width_left_marking (RwidthLeftMarking"†
+Next_76d#
+heading_angle (RheadingAngle
+
+view_range (R	viewRange6
+view_range_availability (RviewRangeAvailability"ó
+Details_739
+obstacle_id (R
+obstacleId$
+obstacle_pos_x (RobstaclePosX
+	reseved_2 (Rreseved2$
+obstacle_pos_y (RobstaclePosY!
+blinker_info (RblinkerInfo#
+cut_in_and_out (RcutInAndOut+
+obstacle_rel_vel_x (RobstacleRelVelX#
+obstacle_type (RobstacleType
+
+reserved_3	 (R	reserved3'
+obstacle_status
+ (RobstacleStatus2
+obstacle_brake_lights (RobstacleBrakeLights
+
+reserved_4 (R	reserved4%
+obstacle_valid (RobstacleValid"¿
+Details_73a'
+obstacle_length (RobstacleLength%
+obstacle_width (RobstacleWidth!
+obstacle_age (RobstacleAge#
+obstacle_lane (RobstacleLane
+	cipv_flag (RcipvFlag
+
+reserved_5 (R	reserved5
+radar_pos_x (R	radarPosX
+radar_vel_x (R	radarVelX4
+radar_match_confidence	 (RradarMatchConfidence
+
+reserved_6
+ (R	reserved6(
+matched_radar_id (RmatchedRadarId
+
+reserved_7 (R	reserved7"©
+Details_73b.
+obstacle_angle_rate (RobstacleAngleRate2
+obstacle_scale_change (RobstacleScaleChange$
+object_accel_x (RobjectAccelX
+
+reserved_8 (R	reserved8+
+obstacle_replaced (RobstacleReplaced
+
+reserved_9 (R	reserved9%
+obstacle_angle (RobstacleAngle"á
+Mobileye-
+header (2.apollo.common.HeaderRheaderH
+aftermarket_669 (2.apollo.drivers.Aftermarket_669Raftermarket669<
+details_737 (2.apollo.drivers.Details_737R
+details737<
+details_738 (2.apollo.drivers.Details_738R
+details738<
+details_739 (2.apollo.drivers.Details_739R
+details739<
+details_73a (2.apollo.drivers.Details_73aR
+details73a<
+details_73b (2.apollo.drivers.Details_73bR
+details73b0
+lka_766 (2.apollo.drivers.Lka_766Rlka7660
+lka_767	 (2.apollo.drivers.Lka_767Rlka7670
+lka_768
+ (2.apollo.drivers.Lka_768Rlka7680
+lka_769 (2.apollo.drivers.Lka_769Rlka769B
+reference_76a (2.apollo.drivers.Reference_76aRreference76a0
+num_76b (2.apollo.drivers.Num_76bRnum76b3
+next_76c (2.apollo.drivers.Next_76cRnext76c3
+next_76d (2.apollo.drivers.Next_76dRnext76d
